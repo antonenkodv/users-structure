@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "incode_test_user",
+    "password": "3sW90k4hrvmr",
+    "database": "incode_test_db",
+    "port": 5432,
+    "host": "database-instance.cswihq1yohem.us-east-1.rds.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
